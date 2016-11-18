@@ -5,3 +5,4 @@
 ( 'John', 'Smith', 'John@Smith.com'),
 ( 'Dave', 'Davis', 'Dave@Davis.com'),
 ( 'Jane', 'Janis', 'Jane@Janis.com');
+--insert into Users (firstname, lastname, email) values ('Jane', 'Janis', 'Jane@Janis.com');

@@ -8,3 +8,4 @@
 ('Ford', 'Taurus', 2003, 2),
 ('VW', 'Bug', 2010, 2),
 ('Mini', 'Coup', 2013, 3);
+--insert into Vehicles (make, model, year, ownerid) values ('Mini', 'Coup', 2013, 3);
